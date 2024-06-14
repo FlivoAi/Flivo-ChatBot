@@ -5,7 +5,7 @@ export const HorizonLogo = createIcon({
   displayName: 'horizonLogo',
   viewBox: '0 0 146 20',
 
-  <img src=""D:\flivochatbot\FlivoBot\src\components\icons\flivologo.png"" alt="My Picture">
+ // <img src=""D:\flivochatbot\FlivoBot\src\components\icons\flivologo.png"" alt="My Picture">
   
   // path: (
   //   <g fill="currentColor" xmlns="http://www.w3.org/2000/svg">
